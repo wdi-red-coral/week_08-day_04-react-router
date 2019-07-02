@@ -37,6 +37,8 @@ Changing routes is now nearly instantaneous!
 
 ## Demo: Front-end Routing
 
+- https://codesandbox.io/s/heuristic-lake-tlqyt
+
 Let's run our server with `npm start` and click on "Home" and "Movies". What
 happens to the DOM when we click these links? What happens to the URL bar?
 
